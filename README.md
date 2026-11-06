@@ -422,3 +422,7 @@ AIによる食事記録の補助や、食事履歴を活用した食材・料理
 ## 11. 画面遷移図
 
 Figma: [Bodymake Nutrition App - 画面遷移図](https://www.figma.com/design/tfS8E9RKpHVjmHAEIynIiy/Bodymake-Nutrition-App---%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0-1&t=35d1ukfTS9yoriB2-1)
+
+## 12. ER図
+
+![ER図](docs/erd.png)
