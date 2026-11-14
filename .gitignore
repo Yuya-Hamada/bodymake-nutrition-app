@@ -1,0 +1,27 @@
+# Environment variables
+/.env
+/.env.*
+!/.env.example
+
+# Credentials
+/config/master.key
+/config/credentials/*.key
+
+# Bundler
+/.bundle
+/vendor/bundle
+
+# Logs and temporary files
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Storage
+/storage/*
+!/storage/.keep
+
+# System files
+.DS_Store
+*.swp
+.byebug_history
